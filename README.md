@@ -1,7 +1,7 @@
 # spayfruit.github.io
 Aprendiendo a programar con peras y manzanas, naranjas y mandarinas, kiwis y fresas. 
 
-# Antes de proponer el PMV es necesario asegurar que la red de las maquinitas, sean 100% seguras, con acceso a contenido 100% educativo y verificado previamente, una red protegida por una VPN verificada por la secretaría de educación pública y una empresa de seguridad 100% infalible. No se aceptara, el uso de spayfruit sin estos requerimientos previos. Internet 
+# Antes de proponer el PMV es necesario asegurar que la red de las maquinas arcade, sean 100% seguras, con acceso a contenido 100% educativo y verificado previamente, una red protegida por una VPN verificada por la secretaría de educación pública y una empresa de seguridad 100% infalible. No se aceptara, el uso de spayfruit sin estos requerimientos previos. Visitar inavega.github.io para más información.
 
 
 PMV (Producto Mínimo Viable) para tu videojuego de máquina arcade usando un entorno de programación de baja codificación:
