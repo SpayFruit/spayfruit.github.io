@@ -1,6 +1,9 @@
 # spayfruit.github.io
 Aprendiendo a programar con peras y manzanas, naranjas y mandarinas, kiwis y fresas. 
 
+# Antes de proponer el PMV es necesario asegurar que la red de las maquinitas, sean 100% seguras, con acceso a contenido 100% educativo y verificado previamente, una red protegida por una VPN verificada por la secretaría de educación pública y una empresa de seguridad 100% infalible. No se aceptara, el uso de spayfruit sin estos requerimientos previos. Internet 
+
+
 PMV (Producto Mínimo Viable) para tu videojuego de máquina arcade usando un entorno de programación de baja codificación:
 
 Define tu idea de juego: Comienza por definir tu concepto de juego. ¿Qué tipo de juego quieres crear? ¿Cuál será el objetivo del juego? ¿Qué mecánicas de juego utilizarás? Establecer estos elementos te ayudará a crear una visión clara de tu proyecto.
@@ -32,5 +35,7 @@ Implementa una forma de seguimiento de los puntos: Desarrolla un sistema que per
 Prueba el juego: Prueba el juego en una variedad de dispositivos y asegúrate de que funcione correctamente. Haz que varios jugadores prueben el juego y obtén comentarios para mejorar la jugabilidad y la interfaz de usuario.
 
 Lanza la PMV: Una vez que hayas completado los pasos anteriores, lanza la PMV de Spayfruit en la máquina arcade. Asegúrate de recopilar comentarios de los jugadores para que puedas seguir mejorando el juego en futuras versiones.
+
+
 
 
